@@ -4,6 +4,7 @@ $db_user = "root";
 $db_pass = "12345678";
 $db_name = "covid";
 
+#test
 
 
 $Conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
